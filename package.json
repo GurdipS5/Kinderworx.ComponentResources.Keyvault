@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "readme-md-generator": "^1.0.0"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
